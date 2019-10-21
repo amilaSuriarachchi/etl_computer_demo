@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Computer" max_length="40" name="x_etl_bug_bash_computer" type="collection">
+        <element label="Disk" max_length="32" name="disk" reference="x_etl_bug_bash_disk" type="reference"/>
+        <element display="true" label="ID" max_length="40" name="id" type="string"/>
+        <element label="Model" max_length="40" name="model" type="string"/>
+        <element choice="1" label="OS" max_length="40" name="os" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Windows" sequence="10" value="Windows"/>
+                <element inactive_on_update="false" label="Linux" sequence="20" value="Linux"/>
+                <element inactive_on_update="false" label="RedHat" sequence="30" value="RedHat"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="disk"/>
+        </index>
+    </element>
+</database>

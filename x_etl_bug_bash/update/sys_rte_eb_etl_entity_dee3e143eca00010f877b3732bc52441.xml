@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_etl_entity">
+    <sys_rte_eb_etl_entity action="INSERT_OR_UPDATE">
+        <name>Import Set</name>
+        <path/>
+        <run_business_rules>false</run_business_rules>
+        <synchronize_inserts>false</synchronize_inserts>
+        <sys_class_name>sys_rte_eb_etl_entity</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 22:28:43</sys_created_on>
+        <sys_id>dee3e143eca00010f877b3732bc52441</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Import Set</sys_name>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Computer">3dd3a143eca00010f877b3732bc52443</sys_rte_eb_definition>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_update_name>sys_rte_eb_etl_entity_dee3e143eca00010f877b3732bc52441</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 22:28:43</sys_updated_on>
+        <table>x_etl_bug_bash_computer</table>
+    </sys_rte_eb_etl_entity>
+</record_update>

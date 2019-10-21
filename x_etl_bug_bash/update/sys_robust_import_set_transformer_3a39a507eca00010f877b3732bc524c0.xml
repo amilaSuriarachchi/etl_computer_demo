@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_robust_import_set_transformer">
+    <sys_robust_import_set_transformer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <batch_size>10</batch_size>
+        <description/>
+        <name>Computer Transformer</name>
+        <properties/>
+        <robust_transform_engine display_value="Computer">3dd3a143eca00010f877b3732bc52443</robust_transform_engine>
+        <source_table>x_etl_bug_bash_computer_import_set</source_table>
+        <sys_class_name>sys_robust_import_set_transformer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 22:51:49</sys_created_on>
+        <sys_id>3a39a507eca00010f877b3732bc524c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer Transformer</sys_name>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_update_name>sys_robust_import_set_transformer_3a39a507eca00010f877b3732bc524c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 22:51:49</sys_updated_on>
+        <verbose>false</verbose>
+    </sys_robust_import_set_transformer>
+</record_update>
