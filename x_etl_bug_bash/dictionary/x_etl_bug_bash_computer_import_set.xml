@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Computer Data Source" max_length="40" name="x_etl_bug_bash_computer_import_set" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Computer ID" label="Computer ID" max_length="40" name="u_computer_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Computer Type" label="Computer Type" max_length="40" name="u_computer_type" type="string"/>
+        <element attributes="import_attribute_name=Computer Version" label="Computer Version" max_length="15" name="u_computer_version" type="decimal"/>
+        <element attributes="import_attribute_name=Disk Capacity" label="Disk Capacity" max_length="40" name="u_disk_capacity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Disk Serial No" label="Disk Serial No" max_length="40" name="u_disk_serial_no" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufactured Date" label="Manufactured Date" max_length="40" name="u_manufactured_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=OS" label="OS" max_length="40" name="u_os" type="string"/>
+    </element>
+</database>

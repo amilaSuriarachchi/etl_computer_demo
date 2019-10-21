@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_disk_serial_no" label="Disk Serial No" language="en" table="x_etl_bug_bash_computer_import_set">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_disk_serial_no</element>
+            <help/>
+            <hint/>
+            <label>Disk Serial No</label>
+            <language>en</language>
+            <name>x_etl_bug_bash_computer_import_set</name>
+            <plural>Disk Serial Nos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-21 22:15:25</sys_created_on>
+            <sys_id>77f0e1cfec600010f877b3732bc5244a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Disk Serial No</sys_name>
+            <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+            <sys_update_name>sys_documentation_x_etl_bug_bash_computer_import_set_u_disk_serial_no_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-21 22:15:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping">
+    <sys_rte_eb_field_mapping action="DELETE">
+        <order>30</order>
+        <referenced_sys_rte_eb_entity/>
+        <source_sys_rte_eb_field display_value="Disk Capacity">69b46943eca00010f877b3732bc524ab</source_sys_rte_eb_field>
+        <sys_class_name>sys_rte_eb_field_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 22:48:14</sys_created_on>
+        <sys_id>22582dc3eca00010f877b3732bc524ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Computer">3dd3a143eca00010f877b3732bc52443</sys_rte_eb_definition>
+        <sys_rte_eb_entity_mapping display_value="Import Set to Temp Table">568765c3eca00010f877b3732bc52488</sys_rte_eb_entity_mapping>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_update_name>sys_rte_eb_field_mapping_22582dc3eca00010f877b3732bc524ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 22:48:14</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Temp Disk Capacity">59462983eca00010f877b3732bc524ab</target_sys_rte_eb_field>
+    </sys_rte_eb_field_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</application>
+        <file_path/>
+        <instance_id>80d9cd7a182000108d0d037a28ffbbc5</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_rte_eb_field_mapping_22582dc3eca00010f877b3732bc524ae</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_field_mapping"><sys_rte_eb_field_mapping action="INSERT_OR_UPDATE"><order>30</order><referenced_sys_rte_eb_entity/><source_sys_rte_eb_field display_value="Disk Capacity">69b46943eca00010f877b3732bc524ab</source_sys_rte_eb_field><sys_class_name>sys_rte_eb_field_mapping</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-21 22:48:14</sys_created_on><sys_id>22582dc3eca00010f877b3732bc524ae</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package><sys_policy/><sys_rte_eb_definition display_value="Computer">3dd3a143eca00010f877b3732bc52443</sys_rte_eb_definition><sys_rte_eb_entity_mapping display_value="Import Set to Temp Table">568765c3eca00010f877b3732bc52488</sys_rte_eb_entity_mapping><sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope><sys_update_name>sys_rte_eb_field_mapping_22582dc3eca00010f877b3732bc524ae</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-21 22:48:14</sys_updated_on><target_sys_rte_eb_field display_value="Temp Disk Capacity">59462983eca00010f877b3732bc524ab</target_sys_rte_eb_field></sys_rte_eb_field_mapping></record_update>]]></payload>
+        <payload_hash>-1493059259</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>b85ad58bec600010f877b3732bc52424</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 22:48:14</sys_created_on>
+        <sys_id>ec88edc3eca00010f877b3732bc5240f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16df081b24f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 22:48:14</sys_updated_on>
+        <type>Robust Transform Engine Entity Field Map</type>
+        <update_guid>2888edc379a00010569374bb696bdc0f</update_guid>
+        <update_guid_history>2888edc379a00010569374bb696bdc0f:-1493059259</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-21 22:58:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_rte_eb_field_mapping">sys_rte_eb_field_mapping</sys_db_object>
+        <sys_id>6cdf9d1220a546ceb20cddf8cac18999</sys_id>
+        <sys_metadata>22582dc3eca00010f877b3732bc524ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_scope_delete display_value="">7e5caed04e104540860788c382693690</sys_scope_delete>
+        <sys_update_name>sys_rte_eb_field_mapping_22582dc3eca00010f877b3732bc524ae</sys_update_name>
+        <sys_update_version display_value="sys_rte_eb_field_mapping_22582dc3eca00010f877b3732bc524ae">ec88edc3eca00010f877b3732bc5240f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-21 22:58:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
