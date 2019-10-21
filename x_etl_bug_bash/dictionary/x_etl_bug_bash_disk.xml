@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Disk" max_length="40" name="x_etl_bug_bash_disk" type="collection">
+        <element label="Capacity" max_length="40" name="capacity" type="string"/>
+        <element label="Computer" max_length="32" name="computer" reference="x_etl_bug_bash_computer" type="reference"/>
+        <element label="Manufactured Date" max_length="40" name="manufactured_date" type="glide_date_time"/>
+        <element display="true" label="Serial No" max_length="40" name="serial_no" type="string"/>
+        <index name="index">
+            <element name="computer"/>
+        </index>
+    </element>
+</database>

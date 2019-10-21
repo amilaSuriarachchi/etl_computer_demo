@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="manufactured_date" label="Manufactured Date" language="en" table="x_etl_bug_bash_disk">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>manufactured_date</element>
+            <help/>
+            <hint/>
+            <label>Manufactured Date</label>
+            <language>en</language>
+            <name>x_etl_bug_bash_disk</name>
+            <plural>Manufactured Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-10-21 21:58:56</sys_created_on>
+            <sys_id>d23d950fec600010f877b3732bc524c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Manufactured Date</sys_name>
+            <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+            <sys_update_name>sys_documentation_x_etl_bug_bash_disk_manufactured_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-10-21 21:58:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
