@@ -8,7 +8,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-21 22:28:43</sys_created_on>
         <sys_id>dee3e143eca00010f877b3732bc52441</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Import Set</sys_name>
         <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
         <sys_policy/>
@@ -16,7 +16,7 @@
         <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
         <sys_update_name>sys_rte_eb_etl_entity_dee3e143eca00010f877b3732bc52441</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-21 22:28:43</sys_updated_on>
-        <table>x_etl_bug_bash_computer</table>
+        <sys_updated_on>2019-10-28 18:20:56</sys_updated_on>
+        <table>x_etl_bug_bash_computer_import_set</table>
     </sys_rte_eb_etl_entity>
 </record_update>

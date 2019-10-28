@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rte_eb_to_date_operation">
+    <sys_rte_eb_to_date_operation action="INSERT_OR_UPDATE">
+        <conditional_fields/>
+        <conditional_script/>
+        <date_format>yyyy/MM/dd</date_format>
+        <is_conditional>false</is_conditional>
+        <name>Disk Manufactured Date</name>
+        <operation_group/>
+        <order>10</order>
+        <source_sys_rte_eb_field display_value="Temp Manufactured Date">d296e983eca00010f877b3732bc52466</source_sys_rte_eb_field>
+        <source_sys_rte_eb_fields/>
+        <sys_class_name>sys_rte_eb_to_date_operation</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-28 18:32:30</sys_created_on>
+        <sys_id>a9a078199f3000105cf3ffa4677fcf38</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Disk Manufactured Date</sys_name>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_policy/>
+        <sys_rte_eb_definition display_value="Computer">3dd3a143eca00010f877b3732bc52443</sys_rte_eb_definition>
+        <sys_rte_eb_entity display_value="Temp Table">0b35ed43eca00010f877b3732bc52422</sys_rte_eb_entity>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_update_name>sys_rte_eb_to_date_operation_a9a078199f3000105cf3ffa4677fcf38</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-28 18:32:30</sys_updated_on>
+        <target_sys_rte_eb_field display_value="Temp Manufactured Date">d296e983eca00010f877b3732bc52466</target_sys_rte_eb_field>
+        <target_sys_rte_eb_fields/>
+        <type display_value="Convert to Date">d939451e730000102b6265a751ab9e6e</type>
+    </sys_rte_eb_to_date_operation>
+</record_update>

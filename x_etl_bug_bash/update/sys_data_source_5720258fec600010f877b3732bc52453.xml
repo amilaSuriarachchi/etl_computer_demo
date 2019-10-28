@@ -31,6 +31,7 @@
         <last_run_datetime/>
         <last_success_import_time/>
         <ldap_target/>
+        <ldapprobe_result_set_rows/>
         <limit/>
         <maximum_rows/>
         <mid_server/>

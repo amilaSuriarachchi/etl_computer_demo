@@ -48,7 +48,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-21 22:15:25</sys_created_on>
-        <sys_id>8001e1cfec600010f877b3732bc5247e</sys_id>
+        <sys_id>a9d268559f3000105cf3ffa4677fcf17</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>OS</sys_name>
         <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
@@ -56,7 +56,7 @@
         <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
         <sys_update_name>sys_dictionary_x_etl_bug_bash_computer_import_set_u_os</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-21 22:15:25</sys_updated_on>
+        <sys_updated_on>2019-10-28 17:30:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="os" table="x_etl_bug_bash_computer" version="3">
+    <sys_choice action="DELETE" field="os" table="x_etl_bug_bash_computer" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
             <element>os</element>
@@ -10,13 +10,13 @@
             <name>x_etl_bug_bash_computer</name>
             <sequence>10</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-21 22:04:02</sys_created_on>
+            <sys_created_on>2019-10-28 17:30:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f53e154fec600010f877b3732bc5240d</sys_id>
+            <sys_id>3dd268559f3000105cf3ffa4677fcf5e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-21 22:04:02</sys_updated_on>
+            <sys_updated_on>2019-10-28 17:30:11</sys_updated_on>
             <value>Windows</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -29,13 +29,13 @@
             <name>x_etl_bug_bash_computer</name>
             <sequence>20</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-21 22:04:36</sys_created_on>
+            <sys_created_on>2019-10-28 17:30:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e17e954fec600010f877b3732bc5243b</sys_id>
+            <sys_id>7dd268559f3000105cf3ffa4677fcf5e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-21 22:04:36</sys_updated_on>
+            <sys_updated_on>2019-10-28 17:30:11</sys_updated_on>
             <value>Linux</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -48,13 +48,13 @@
             <name>x_etl_bug_bash_computer</name>
             <sequence>30</sequence>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-21 22:05:00</sys_created_on>
+            <sys_created_on>2019-10-28 17:30:11</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>078ed54fec600010f877b3732bc524c9</sys_id>
+            <sys_id>bdd268559f3000105cf3ffa4677fcf5e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-21 22:05:00</sys_updated_on>
+            <sys_updated_on>2019-10-28 17:30:11</sys_updated_on>
             <value>RedHat</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
@@ -62,8 +62,8 @@
             <name>x_etl_bug_bash_computer</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-10-21 22:04:02</sys_created_on>
-            <sys_id>c56e954fec600010f877b3732bc5240d</sys_id>
+            <sys_created_on>2019-10-28 17:30:11</sys_created_on>
+            <sys_id>b1d268559f3000105cf3ffa4677fcf5f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>os</sys_name>
             <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
@@ -71,7 +71,52 @@
             <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
             <sys_update_name>sys_choice_x_etl_bug_bash_computer_os</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-10-21 22:04:02</sys_updated_on>
+            <sys_updated_on>2019-10-28 17:30:11</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</application>
+        <file_path/>
+        <instance_id>6a50ee4820300010d1f93cb1002dfdc6</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_choice_x_etl_bug_bash_computer_os</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="os" table="x_etl_bug_bash_computer" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>os</element><hint/><inactive>false</inactive><label>Windows</label><language>en</language><name>x_etl_bug_bash_computer</name><sequence>10</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-28 17:30:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3dd268559f3000105cf3ffa4677fcf5e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-28 17:30:11</sys_updated_on><value>Windows</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>os</element><hint/><inactive>false</inactive><label>Linux</label><language>en</language><name>x_etl_bug_bash_computer</name><sequence>20</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-28 17:30:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>7dd268559f3000105cf3ffa4677fcf5e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-28 17:30:11</sys_updated_on><value>Linux</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>os</element><hint/><inactive>false</inactive><label>RedHat</label><language>en</language><name>x_etl_bug_bash_computer</name><sequence>30</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-28 17:30:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bdd268559f3000105cf3ffa4677fcf5e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-28 17:30:11</sys_updated_on><value>RedHat</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>os</element><name>x_etl_bug_bash_computer</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-28 17:30:11</sys_created_on><sys_id>b1d268559f3000105cf3ffa4677fcf5f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>os</sys_name><sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package><sys_policy/><sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope><sys_update_name>sys_choice_x_etl_bug_bash_computer_os</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-28 17:30:11</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1635302309</payload_hash>
+        <record_name>Computer.OS</record_name>
+        <reverted_from/>
+        <source>496f5e0020300010d1f93cb1002dfd13</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2019-10-25 05:21:56</sys_created_on>
+        <sys_id>cfd2e8559f3000105cf3ffa4677fcf48</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>16e015d35200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Choice list</type>
+        <update_guid>8fd2e855fb300010e8705edb51dffd48</update_guid>
+        <update_guid_history>8fd2e855fb300010e8705edb51dffd48:1635302309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-28 17:30:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>b1d268559f3000105cf3ffa4677fcf5f</sys_id>
+        <sys_metadata>b1d268559f3000105cf3ffa4677fcf5f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>os</sys_name>
+        <sys_package display_value="ETL Bug bash" source="x_etl_bug_bash">59789d0bec600010f877b3732bc52467</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="ETL Bug bash">59789d0bec600010f877b3732bc52467</sys_scope>
+        <sys_scope_delete display_value="">7e5caed04e104540860788c382693690</sys_scope_delete>
+        <sys_update_name>sys_choice_x_etl_bug_bash_computer_os</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_etl_bug_bash_computer_os">cfd2e8559f3000105cf3ffa4677fcf48</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-28 17:30:16</sys_updated_on>
+    </sys_metadata_delete>
 </record_update>
